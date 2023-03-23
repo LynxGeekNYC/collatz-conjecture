@@ -21,3 +21,9 @@ As of now, no one has been able to find a number for which the Collatz sequence 
 This script defines the collatz_sequence function that generates the Collatz sequence for a given starting number, as before. It then sets the initial starting number to 1 and enters an infinite loop. In each iteration of the loop, it generates the Collatz sequence for the current starting number, prints the sequence to the console, and increments the starting number by 1. This process continues indefinitely until the script is stopped manually.
 
 Note that this modified script will generate the Collatz sequence for an infinite number of starting numbers, but it is extremely unlikely to find a sequence that does not eventually reach 1.
+
+#Variations of the scripts
+I made two separate scripts. One is standard CPU and one is for GPU. 
+
+#Warning
+I had no time to test run it for a long time so I have no idea what it will do with overheating the GPU. 
