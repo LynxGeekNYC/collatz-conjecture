@@ -23,7 +23,11 @@ This script defines the collatz_sequence function that generates the Collatz seq
 Note that this modified script will generate the Collatz sequence for an infinite number of starting numbers, but it is extremely unlikely to find a sequence that does not eventually reach 1.
 
 # Variations of the scripts
-I made two separate scripts. One is standard CPU and one is for GPU. 
+I made 4 separate scripts. 
+
+- One is Python standard CPU and one is for GPU. 
+- One is C++ using CUDA (NVIDIA) and one is for OpenCL. NVIDIA is more powerful.
+
 
 # Warning
 I had no time to test run it for a long time so I have no idea what it will do with overheating the GPU. 
